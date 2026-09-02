@@ -1,6 +1,6 @@
 # Hello, I'm Michael 
 
-I'm a software engineer trained at the University of Canterbury interested in software development, web development, and building things.
+I'm a software engineer trained at the University of Canterbury interested in software development, web development, and building fun things.
 
 ## Featured Projects
 
