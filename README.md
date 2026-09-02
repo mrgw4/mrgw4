@@ -20,7 +20,7 @@ Languages:
 TypeScript · Python · Java · C# · SQL · HTML · CSS
 
 Web & Backend:
-Node.js · Express · Spring Boot
+Node.js · Express · Spring Boot · React
 
 Data & Machine Learning:
 PyTorch
