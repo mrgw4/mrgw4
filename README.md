@@ -16,9 +16,17 @@ A team-developed Unity game created for KiwiJam 2026.
 
 ## Technologies
 
-TypeScript · JavaScript · Python · Java · C# · SQL  
-Node.js · Express · MongoDB · Git · Unity
+Languages:
+TypeScript · Python · Java · C# · SQL · HTML · CSS
 
+Web & Backend:
+Node.js · Express · Spring Boot
+
+Data & Machine Learning:
+PyTorch
+
+Tools & Other:
+Git · Cypress · Unity
 ## Currently
 
 🎓 Software Engineering @ University of Canterbury — academic requirements completed
